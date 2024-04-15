@@ -1,0 +1,44 @@
+body{
+    background-color:black
+}
+
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align:center;
+    text-transform:uppercase;
+    font-size: 30px
+  }
+
+  .meme{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 24%;
+    color: white;
+    text-align:center;
+    
+}
+ 
+img{
+    width: 400px;
+    margin-left: 35%;
+    margin-top:5px;
+    border: 5px solid
+}
+
+h2{
+    color: darkgoldenrod;
+    font-size: 25px;
+    font-weight: 100;
+    font-style:oblique;
+}
+
+a:hover img{
+    border-color: whitesmoke;
+}
+
+a img {    
+    border: 10px solid darkgoldenrod;
+}
